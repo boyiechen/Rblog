@@ -1,2 +1,0 @@
-[[knit_tables]]
-[[analysis]]
